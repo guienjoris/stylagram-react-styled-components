@@ -126,12 +126,12 @@ function Profile() {
     <ProfileContainer>
       <ProfileDetails>
         <ProfileDetailsLeft>
-          <ProfileImage src="https://api.adorable.io/avatars/285/abott@adorable.png" />
+          <ProfileImage src="logo192.png" />
         </ProfileDetailsLeft>
  
         <ProfileDetailsRight>
           <ProfileDetailsUsername>
-            <HeadingThreeText>yomieluwande</HeadingThreeText>
+            <HeadingThreeText>ReactUser</HeadingThreeText>
             <EditProfileButton>Edit profile</EditProfileButton>
           </ProfileDetailsUsername>
  
@@ -149,7 +149,7 @@ function Profile() {
  
           <ProfileDetailsName>
             <ParagraphText>
-              <strong>Yomi</strong>
+              <strong>Shynryu</strong>
             </ParagraphText>
           </ProfileDetailsName>
         </ProfileDetailsRight>
