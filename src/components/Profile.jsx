@@ -51,8 +51,12 @@ const ProfileContainer = styled.div`
   margin: 8% auto;
   position:absolute;
   margin-left:50%;
-  transform:translate(-50%)
-  
+  transform:translate(-50%);
+  @media screen and (max-width:1394px){
+    margin: 15% auto;
+    margin-left:50%;
+    transform:translate(-50%);
+  }
 `;
  
 const ProfileDetails = styled.div`

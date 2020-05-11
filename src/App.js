@@ -13,7 +13,7 @@ function App() {
     <Fragment>
       <GlobalStyle />
       <AppWrapper>
-        <Header />
+        <Header color="#262626" />
  
         <Profile />
       </AppWrapper>
