@@ -5,7 +5,8 @@ import SingleImage from './Image';
 const feedsource = [
   {
     source:
-      'https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/31128574_1814217492214547_9211932391461879808_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=VXUJr42v8hcAX_U9ham&oh=21713a6166bd598521cc8714add1b8ab&oe=5ED8FFEC ',
+      'https://instagram.fcdg3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/25014905_296469080863340_9200966536796307456_n.jpg?_nc_ht=instagram.fcdg3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Vd6UDz67KHMAX9fpT5b&oh=a0d7b95c4c39205cabdeacce649d54a4&oe=5F8AB86E',
+      
     likes: '43',
     comments: '3',
     isVideo: false,
@@ -13,7 +14,7 @@ const feedsource = [
   },
   {
     source:
-      'https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/26068943_1814433155241993_4753095802308526080_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=raVAm87-BGwAX9WwvwL&oh=c90f7150e265eab68194e8283c3f8202&oe=5ED95C0F',
+      'https://instagram.fcdg3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/25014905_296469080863340_9200966536796307456_n.jpg?_nc_ht=instagram.fcdg3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Vd6UDz67KHMAX9fpT5b&oh=a0d7b95c4c39205cabdeacce649d54a4&oe=5F8AB86E',
     likes: '313',
     comments: '10',
     isVideo: true,
@@ -21,7 +22,7 @@ const feedsource = [
   },
   {
     source:
-      'https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/25015831_1978301599108528_8725999722872963072_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=nORKC8q2CpIAX9JJfJh&oh=f74ffca9060f2054b5c4792b72afb20a&oe=5EDC541B',
+      'https://instagram.fcdg3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/25014905_296469080863340_9200966536796307456_n.jpg?_nc_ht=instagram.fcdg3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Vd6UDz67KHMAX9fpT5b&oh=a0d7b95c4c39205cabdeacce649d54a4&oe=5F8AB86E',
     likes: '29',
     comments: '2',
     isVideo: false,
@@ -29,7 +30,7 @@ const feedsource = [
   },
   {
     source:
-      'https://scontent-cdt1-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/23667870_184653728779673_7049347522485026816_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=D-WzQ3skNUQAX_Jzhgl&oh=245fd01c92d25db0f1227c2fafb7ae87&oe=5EDCC9F0',
+      'https://instagram.fcdg3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/25014905_296469080863340_9200966536796307456_n.jpg?_nc_ht=instagram.fcdg3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Vd6UDz67KHMAX9fpT5b&oh=a0d7b95c4c39205cabdeacce649d54a4&oe=5F8AB86E',
     likes: '18',
     comments: '2',
     isVideo: false,
@@ -37,14 +38,19 @@ const feedsource = [
   },
   {
     source:
-      'https://scontent-cdt1-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/22280767_1419350568119701_3330842009580601344_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=CM17D-H4wMMAX8jnniL&oh=e733df085982fbaf345d82488bccb27c&oe=5EDA1200',
+      'https://instagram.fcdg3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/25014905_296469080863340_9200966536796307456_n.jpg?_nc_ht=instagram.fcdg3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Vd6UDz67KHMAX9fpT5b&oh=a0d7b95c4c39205cabdeacce649d54a4&oe=5F8AB86E',
     likes: '30',
     comments: '4',
     isVideo: false,
     id: 4,
   },
 ];
- 
+/* https://instagram.fcdg3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/25014905_296469080863340_9200966536796307456_n.jpg?_nc_ht=instagram.fcdg3-1.fna.fbcdn.net&amp;_nc_cat=108&amp;_nc_ohc=Vd6UDz67KHMAX9fpT5b&amp;oh=67ed02ff1f36335d5a1e0de6c8659ebb&amp;oe=5F8AEAEE 640w,
+https://instagram.fcdg3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/25014905_296469080863340_9200966536796307456_n.jpg?_nc_ht=instagram.fcdg3-1.fna.fbcdn.net&amp;_nc_cat=108&amp;_nc_ohc=Vd6UDz67KHMAX9fpT5b&amp;oh=a0d7b95c4c39205cabdeacce649d54a4&amp;oe=5F8AB86E 750w,
+https://instagram.fcdg3-1.fna.fbcdn.net/v/t51.2885-15/e35/25014905_296469080863340_9200966536796307456_n.jpg?_nc_ht=instagram.fcdg3-1.fna.fbcdn.net&amp;_nc_cat=108&amp;_nc_ohc=Vd6UDz67KHMAX9fpT5b&amp;_nc_tp=18&amp;oh=6d340ec47d7dc48c360a14b9234ce09f&amp;oe=5F89C289 1080w
+https://instagram.fcdg3-1.fna.fbcdn.net/v/t51.2885-15/e35/25014905_296469080863340_9200966536796307456_n.jpg?_nc_ht=instagram.fcdg3-1.fna.fbcdn.net&amp;_nc_cat=108&amp;_nc_ohc=Vd6UDz67KHMAX9fpT5b&amp;_nc_tp=18&amp;oh=6d340ec47d7dc48c360a14b9234ce09f&amp;oe=5F89C289 */
+
+
 const ProfileContainer = styled.div`
   max-width: 70%;
   width: 100%;
